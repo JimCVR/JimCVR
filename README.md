@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JimCVR
-- 👀 I’m interested in java, unity and videogames.
-- 🌱 I’m currently learning java and animation through unity
+- 👀 I’m interested in java, and videogames development.
+- 🌱 I’m currently learning java, kotlin and jetpack compose
 
 <!---
 JimCVR/JimCVR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
